@@ -41,3 +41,4 @@ output_rgb = [output_r, output_g, output_b]
 print("Input RGB:", input_rgb)
 print("Output RGB:", output_rgb)
 
+#ws test
